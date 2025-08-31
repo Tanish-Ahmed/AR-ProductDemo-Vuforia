@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="Shoes_Box.Bottom" size="0.190000 0.329861"/>
+        <ImageTarget name="Shoes_Box.Left" size="0.330000 0.119955"/>
+        <ImageTarget name="Shoes_Box.Right" size="0.330000 0.119955"/>
+        <ImageTarget name="Shoes_Box.Front" size="0.190000 0.119985"/>
+        <ImageTarget name="Shoes_Box.Back" size="0.190000 0.119985"/>
+        <ImageTarget name="Shoes_Box.Top" size="0.190000 0.329861"/>
+        <MultiTarget name="Shoes_Box">
+            <Part name="Shoes_Box.Left" translation="-0.0949999988079071 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="Shoes_Box.Right" translation="0.0949999988079071 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="Shoes_Box.Front" translation="0 0 0.16500000655651093" rotation="AD: 1 0 0 0"/>
+            <Part name="Shoes_Box.Back" translation="0 0 -0.16500000655651093" rotation="AD: 0 1 0 180"/>
+            <Part name="Shoes_Box.Top" translation="0 0.05999999865889549 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="Shoes_Box.Bottom" translation="0 -0.05999999865889549 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
