@@ -23,5 +23,4 @@ Scan a real-world marker (Adidas shoebox) → view a **3D shoe model** with inte
 4. Point camera at shoebox marker → see shoe in AR.
 
 ## 🎥 Demo
-![Demo Screenshot](demo.png)
-[Video Link](#) 
+https://www.linkedin.com/posts/tanish-ahmed_ardeveloper-unitydeveloper-augmentedreality-activity-7397676518811865088-wM0m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8MljAByyh_CSYwj6DniKQz43jBQLrpWG4
