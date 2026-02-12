@@ -20,7 +20,7 @@ Scan a real-world marker (Adidas shoebox) → view a **3D shoe model** with inte
 1. Clone repo & open in Unity.
 2. Import Vuforia Engine + database.
 3. Build & run on Android/iOS.
-4. Point camera at shoebox marker → see shoe in AR.
+4. Point camera at shoebox marker → see shoe in AR
 
 ## 🎥 Demo
 https://www.linkedin.com/posts/tanish-ahmed_ardeveloper-unitydeveloper-augmentedreality-activity-7397676518811865088-wM0m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8MljAByyh_CSYwj6DniKQz43jBQLrpWG4
